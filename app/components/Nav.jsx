@@ -7,7 +7,6 @@ onSearch: function(e){
   e.preventDefault();
   alert('not yet wired up');
 },
-
   render:function(){
   return (
       <div className="top-bar">
